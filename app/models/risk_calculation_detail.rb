@@ -1,0 +1,2 @@
+class RiskCalculationDetail < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class CovidTrackerDetail < ApplicationRecord
+end
